@@ -22,5 +22,4 @@ setup(
   classifiers=classifiers,
   keywords=['python', 'data', 'dataframe', 'machine learning', 'predictions', 'blending', 'pandas', 'numpy'], 
   packages=find_packages(),
-  install_requires=['pandas', 'numpy', 'plotly', 'colorama'] 
 )
