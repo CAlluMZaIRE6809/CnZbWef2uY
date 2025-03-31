@@ -17,7 +17,6 @@ setup(
   description='A module to iteratively blend machine learning model predictions.',
   long_description=open('README.txt').read() + '\n\n' + open('CHANGELOG.txt').read(),
   url='',  
-  author='Matt-OP',
   license='MIT', 
   classifiers=classifiers,
   keywords=['python', 'data', 'dataframe', 'machine learning', 'predictions', 'blending', 'pandas', 'numpy'], 
