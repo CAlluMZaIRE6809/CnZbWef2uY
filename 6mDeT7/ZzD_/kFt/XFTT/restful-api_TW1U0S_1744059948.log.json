@@ -16,7 +16,6 @@
       "files": ["tests/**"],
       "plugins": ["jest"],
       "extends": ["plugin:jest/recommended"]
-    }
   ],
   "rules": {
     "no-console": 0,
