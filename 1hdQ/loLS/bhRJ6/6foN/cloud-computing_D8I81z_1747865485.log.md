@@ -16,5 +16,3 @@ Thank you for your interest in contributing! Here are some guidelines to follow 
 If you are not familiar with pull requests, review the [pull request docs](https://help.github.com/articles/using-pull-requests/).
 
 ## Translations
-
-We are not planning to translate the guides into other languages at this time. Feel free to star/watch the repo if you want to get notified for when we do.
