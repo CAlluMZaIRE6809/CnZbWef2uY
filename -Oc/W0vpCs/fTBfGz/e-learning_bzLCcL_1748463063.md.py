@@ -13,7 +13,6 @@ from pulp import *
 ### ax + by - c = 0
 ### is the same as y = (-a/b)x + (c/b)
 
-
 prob = LpProblem("best_fit_line", LpMinimize)
 z = LpVariable('z',0)
 a = LpVariable('a',0)
