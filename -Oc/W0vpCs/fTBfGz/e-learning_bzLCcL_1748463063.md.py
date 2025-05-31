@@ -15,7 +15,6 @@ from pulp import *
 
 prob = LpProblem("best_fit_line", LpMinimize)
 z = LpVariable('z',0)
-a = LpVariable('a',0)
 # b = LpVariable('b')
 c = LpVariable('c',0)
 
