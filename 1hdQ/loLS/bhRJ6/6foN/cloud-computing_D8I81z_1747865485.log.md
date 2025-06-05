@@ -14,4 +14,3 @@ Thank you for your interest in contributing! Here are some guidelines to follow 
 
 If you are not familiar with pull requests, review the [pull request docs](https://help.github.com/articles/using-pull-requests/).
 
-## Translations
